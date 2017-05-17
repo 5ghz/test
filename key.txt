@@ -1,0 +1,2 @@
+/tmp/root.pub
+/tmp/user.pub
