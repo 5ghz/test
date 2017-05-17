@@ -7,7 +7,10 @@ Input two parameters:
 2) list of key (key.txt)
 
 For correct work need pushy, paramiko, re, getopt modules and dbus on target hosts
+
 Run:
 python  main.py -i input.txt -k key.txt
-Or 
+
+Or:
+
 python  main.py if input.txt and key.txt exist in directory.
