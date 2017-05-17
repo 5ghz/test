@@ -13,4 +13,6 @@ python  main.py -i input.txt -k key.txt
 
 Or:
 
-python  main.py if input.txt and key.txt exist in directory.
+python  main.py 
+
+if input.txt and key.txt exist in directory.
